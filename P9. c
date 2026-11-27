@@ -1,0 +1,9 @@
+#include<stdio.h>
+void main()
+{
+int number;
+printf("Enter a number:");
+scanf("%d",&number);
+if(number==10) 
+printf("number is equals to 10");
+}
